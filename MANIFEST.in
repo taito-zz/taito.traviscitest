@@ -1,3 +1,2 @@
-prune *.cfg
-prune bootstrap.py
+exclude bootstrap.py
 prune buildout.d
