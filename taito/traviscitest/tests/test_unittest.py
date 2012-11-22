@@ -13,4 +13,4 @@ class TestCase(unittest.TestCase):
 
     def test_three(self):
         three = 3
-        self.assertNotEqual(three, 3)
+        self.assertEqual(three, 3)
