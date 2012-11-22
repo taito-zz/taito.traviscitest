@@ -18,14 +18,14 @@ setup(
     author_email='taito.horiuchi@gmail.com',
     url='https://github.com/taito/taito.traviscitest',
     license='BSD',
-    packages=find_packages(exclude=['ez_setup']),
-    # packages=find_packages('src', exclude=['ez_setup']),
-    # package_dir={'': 'src'},
+    # packages=find_packages(exclude=['ez_setup']),
+    packages=find_packages('src', exclude=['ez_setup']),
+    package_dir={'': 'src'},
     namespace_packages=['taito'],
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'plone.browserlayer',
+        'Plone',
         'setuptools'],
     entry_points="""
     # -*- Entry points: -*-
