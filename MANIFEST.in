@@ -1,1 +1,3 @@
-exclude *.cfg bootstrap.py buildout.d
+exclude *.cfg
+exclude bootstrap.py
+exclude buildout.d
