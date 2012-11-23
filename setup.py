@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='taito.traviscitest',
-    version='0.3.3',
+    version='0.3.4',
     description="For testing and see how Travis CI works...",
     long_description=open("README.rst").read(),
     # Get more strings from
