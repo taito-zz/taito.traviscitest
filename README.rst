@@ -6,7 +6,7 @@ Changelog
 ---------
 
 0.3.4 (2012-11-23)
-================
+==================
 
 - Tested releasing package structure. [taito]
 
