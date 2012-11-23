@@ -1,8 +1,8 @@
 recursive-include src *
 include *
-purne .gitignore
-purne .travis.yml
-purne MANIFEST.in
-purne bootstrap.py
-purne travis.cfg
+prune .gitignore
+prune .travis.yml
+prune MANIFEST.in
+prune bootstrap.py
+prune travis.cfg
 global-exclude *.pyc
