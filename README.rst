@@ -5,6 +5,11 @@ taito.traviscitest
 Changelog
 ---------
 
+0.3 (2012-11-23)
+================
+
+- Tested releasing package structure. [taito]
+
 0.2.3 (2012-11-22)
 ==================
 
